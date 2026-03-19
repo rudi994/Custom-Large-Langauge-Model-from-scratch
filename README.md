@@ -1,7 +1,8 @@
 # Custom-Large-Langauge-Model-from-scratch
-<img width="766" height="378" alt="Screenshot 2026-02-12 130048" src="https://github.com/user-attachments/assets/df55f75c-66ad-452c-a9a0-d9fbe855748c" />
-# 🧠 Custom Large Language Model from Scratch
+<img width="766" height="288" alt="image" src="https://github.com/user-attachments/assets/1d3e4bba-65e4-4fde-a92b-4b862e418202" />
 
+
+🧠 Custom Large Language Model from Scratch
 Overview
 
 This project focuses on building a **Large Language Model (LLM) from scratch**, covering the complete pipeline from data preprocessing to model training and text generation.
